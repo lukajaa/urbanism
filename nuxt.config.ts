@@ -19,6 +19,13 @@ export default defineNuxtConfig({
     'nuxt-gtag',
     'nuxt-icon'
   ],
+  plugins: [
+    {
+      src: '@/plugins/aos',
+      ssr: false,
+      mode: 'client'
+    }
+  ],
   googleFonts: {
     families: {}
   },
