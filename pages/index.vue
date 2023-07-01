@@ -4,18 +4,18 @@
       <p class="text-center text-4xl font-bold leading-loose tracking-tight md:text-8xl">
         Urbanism:<br />
         <span class="bg-gradient-to-r from-red-500 via-pink-400 to-yellow-500 bg-clip-text text-transparent"
-          >More than an Idea.
+          >Bing Bong Bing Bong.
         </span>
         <br />
-        A Lifestyle.
+        It's Cool.
       </p>
     </div>
     <div class="flex min-h-screen flex-col items-center justify-center p-10">
       <p
         class="text-center text-4xl font-bold leading-loose tracking-tight md:text-8xl"
         data-aos="fade-in"
-        data-aos-delay="50"
-        data-aos-duration="1000"
+        data-aos-delay="10"
+        data-aos-duration="500"
         data-aos-easing="ease-in-out"
       >
         <span class="bg-gradient-to-r from-red-500 via-pink-400 to-yellow-500 bg-clip-text text-transparent"
@@ -27,8 +27,8 @@
       <p
         class="text-center text-4xl font-bold leading-loose tracking-tight md:text-8xl"
         data-aos="fade-in"
-        data-aos-delay="50"
-        data-aos-duration="1000"
+        data-aos-delay="10"
+        data-aos-duration="500"
         data-aos-easing="ease-in-out"
       >
         <span class="bg-gradient-to-r from-purple-500 via-blue-500 to-pink-500 bg-clip-text text-transparent"
@@ -40,8 +40,8 @@
       <p
         class="text-center text-4xl font-bold leading-loose tracking-tight md:text-8xl"
         data-aos="fade-in"
-        data-aos-delay="50"
-        data-aos-duration="1000"
+        data-aos-delay="10"
+        data-aos-duration="500"
         data-aos-easing="ease-in-out"
       >
         So are
@@ -57,11 +57,13 @@
       <p
         class="text-center text-4xl font-bold leading-loose tracking-tight md:text-8xl"
         data-aos="fade-in"
-        data-aos-delay="50"
-        data-aos-duration="1000"
+        data-aos-delay="10"
+        data-aos-duration="500"
         data-aos-easing="ease-in-out"
       >
-        <span class="bg-gradient-to-r from-teal-500 via-sky-500 to-cyan-500 bg-clip-text text-transparent">Cool</span>
+        <span class="bg-gradient-to-r from-teal-500 via-sky-500 to-cyan-500 bg-clip-text text-transparent"
+          >Cars are Poopy</span
+        >
       </p>
     </div>
   </div>
