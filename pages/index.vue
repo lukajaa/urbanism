@@ -9,6 +9,9 @@
         <br />
         It's Cool.
       </p>
+      <NuxtLink to="/dictionary">
+        <button class="btn mt-4">Dictionary</button>
+      </NuxtLink>
     </div>
     <div class="flex min-h-screen flex-col items-center justify-center p-10">
       <p class="text-center text-4xl font-bold leading-loose tracking-tight md:text-8xl" data-aos="fade-in">

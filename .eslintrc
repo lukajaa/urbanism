@@ -22,7 +22,8 @@
       "semi": false,
       "singleQuote": true,
       "trailingComma": "none",
-      "printWidth": 120
+      "printWidth": 120,
+      "endOfLine": "auto"
     }],
     "vue/multi-word-component-names": "off"
   }

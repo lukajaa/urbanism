@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "title": "Light Rail Transit",
+    "alts": ["LRT", "Spaghetti"],
+    "description": "Light Rail Transit (LRT) is a rail system that uses electricity to power the train. It is a form of mass transit that is used in urban areas.",
+    "category": "Transit"
+  },
+  {
+    "id": 2,
+    "title": "Vehicles Mile Travelled",
+    "alts": ["VMT"],
+    "description": "Vehicles Mile Travelled (VMT) is a measure of the total distance travelled by all vehicles in a given area over a given period of time.",
+    "category": "Statistics"
+  },
+  {
+    "id": 3,
+    "title": "Mass Rapid Transit",
+    "alts": ["MRT", "Heavy Rail", "Rapid Transit", "Metro"],
+    "description": "Mass Rapid Transit (MRT) is a rail system that uses electricity to power the train. It is a form of mass transit that is used in urban areas.",
+    "category": "Transit"
+  },
+  {
+    "id": 4,
+    "title": "Bus Rapid Transit",
+    "alts": ["BRT", "Busway"],
+    "description": "Bus Rapid Transit (BRT) is a bus system that uses dedicated lanes to provide faster and more reliable service. It is a form of mass transit that is used in urban areas.",
+    "category": "Transit"
+  },
+  {
+    "id": 5,
+    "title": "Transit Oriented Development",
+    "alts": ["TOD"],
+    "description": "Transit Oriented Development (TOD) is a type of urban development that maximizes the amount of residential, business and leisure space within walking distance of public transport.",
+    "category": "Concepts"
+  },
+  {
+    "id": 6,
+    "title": "Mixed Use Development",
+    "alts": [],
+    "description": "Mixed Use Development is a type of urban development that combines residential, business and leisure space in a single building or complex.",
+    "category": "Concepts"
+  },
+  {
+    "id": 7,
+    "title": "Closed Streets",
+    "alts": ["Open Streets", "Pedestrianized Streets"],
+    "description": "Closed Streets are streets that are closed to motorized traffic. They are often used for pedestrian and bicycle traffic.",
+    "category": "Concepts?"
+  },
+  {
+    "id": 8,
+    "title": "Bike Lanes",
+    "alts": ["Bicycle Lanes"],
+    "description": "Bike Lanes are lanes on the road that are reserved for bicycles. They are often separated from the rest of the road by a physical barrier.",
+    "category": "Walking/Biking"
+  },
+  {
+    "id": 9,
+    "title": "Robert Moses",
+    "alts": [],
+    "description": "Robert Moses was a city planner who was responsible for the construction of many of New York City's highways and bridges. He was also responsible for the construction of many of New York City's public housing projects.",
+    "category": "Influential People"
+  },
+  {
+    "id": 10,
+    "title": "Jane Jacobs",
+    "alts": [],
+    "description": "Jane Jacobs was a city planner who was responsible for the construction of many of New York City's highways and bridges. She was also responsible for the construction of many of New York City's public housing projects.",
+    "category": "Influential People"
+  },
+  {
+    "id": 11,
+    "title": "Vision Zero",
+    "alts": [],
+    "description": "Vision Zero is a road safety initiative that aims to reduce the number of traffic fatalities to zero by 2024.",
+    "category": "Concepts"
+  },
+  {
+    "id": 12,
+    "title": "High Density",
+    "alts": ["High Density Development"],
+    "description": "High Density is a type of urban development that maximizes the amount of residential, business and leisure space within walking distance of public transport.",
+    "category": "Concepts"
+  }
+]
