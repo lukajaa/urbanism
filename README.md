@@ -1,5 +1,3 @@
-# Lukajaa Nuxt Template
+# Urbanism
 
-Boilerplate for some of my projects that includes Nuxt, Tailwind, and some Google plugins.
-
-Demo: [https://template.lucaskchang.com](https://template.lucaskchang.com)
+Playing around with the AOS library as well as gradient texts. Brainstorming for Bay School Senior Signature Project.
